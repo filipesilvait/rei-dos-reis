@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: #d0d7de7a;
+}
+
+header {
+    padding: 10px;
+}
+
+main {
+    padding: 10px;
+}
+
+footer {
+    padding: 10px;
+}
