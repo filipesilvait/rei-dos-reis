@@ -5,10 +5,11 @@
 
 body {
     text-align: center;
+    background-color: #00A8FF;
 }
 
 header {
-    padding: 10px;
+    padding-top: 30px;
 }
 
 main {
